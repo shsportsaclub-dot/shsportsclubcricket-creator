@@ -24,3 +24,4 @@ Open `index.html` in a browser. No dependencies or build step are required.
 4. Test on mobile and deploy with verified public URL.
 
 This repository is a software project, **not** a GitHub account/email merger. Account email settings must be managed separately in GitHub.
+\n## Cricket scorer demo\nOpen `scorer.html` to score one innings. Supports 0/1/2/3/4/6 runs, wickets, wide/no-ball (+1 only), overs, run rate, undo, reset, and browser-local persistence. This is a simplified demo, **not** a complete cricket Laws-compliant scorer.\n
